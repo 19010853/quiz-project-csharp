@@ -1,7 +1,7 @@
 # Use Case & Domain Model
 
 > Tài liệu tổng hợp từ bài giảng *#8: Use Case* (TEDU): use case và domain model của Quiz App.
-> Liên quan: [Work Breakdown Structure.md](Work%20Breakdown%20Structure.md) · [Tactical Domain Driven Design.md](Tactical%20Domain%20Driven%20Design.md) · [MongoDB Introduction.md](MongoDB%20Introduction.md)
+> Liên quan: [Work Breakdown Structure.md](../Work%20Breakdown%20Structure.md) · [Tactical Domain Driven Design.md](Tactical%20Domain%20Driven%20Design.md) · [MongoDB Introduction.md](MongoDB%20Introduction.md)
 
 ## Mục lục
 

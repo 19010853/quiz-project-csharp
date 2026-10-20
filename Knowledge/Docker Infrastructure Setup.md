@@ -1,7 +1,7 @@
 # Docker Infrastructure Setup
 
 > Tài liệu tổng hợp từ bài giảng *#11: Docker Infrastructure Setup* (TEDU).
-> Liên quan: [MongoDB Introduction.md](MongoDB%20Introduction.md) · [Clean Architecture.md](Clean%20Architecture.md) · [Work Breakdown Structure.md](Work%20Breakdown%20Structure.md) (5.2, 5.3)
+> Liên quan: [MongoDB Introduction.md](MongoDB%20Introduction.md) · [Clean Architecture.md](Clean%20Architecture.md) · [Work Breakdown Structure.md](../Work%20Breakdown%20Structure.md) (5.2, 5.3)
 
 ## Mục lục
 
@@ -215,7 +215,7 @@ docker run -d --name mongodb -e MONGO_INITDB_ROOT_USERNAME=mongoadmin -e 'MONGO_
 
 ## 8. Docker Compose
 
-File [docker-compose.yaml](docker-compose.yaml) ở thư mục gốc của dự án:
+File [docker-compose.yaml](../docker-compose.yaml) ở thư mục gốc của dự án:
 
 ```yaml
 services:
