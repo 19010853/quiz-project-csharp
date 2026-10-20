@@ -483,3 +483,6 @@ $RECYCLE.BIN/
 
 # Claude Code local settings
 .claude/settings.local.json
+
+# Duende IdentityServer signing keys (automatic key management)
+**/keys/is-signing-key-*.json
