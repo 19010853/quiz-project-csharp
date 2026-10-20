@@ -1,12 +1,13 @@
 <Solution>
-  <Folder Name="/src/">
-    <Project Path="src/Identity.API/Identity.API.csproj" />
-  </Folder>
+  <Folder Name="/src/" />
   <Folder Name="/src/Examination/">
     <Project Path="src/Examination/Examination.API/Examination.API.csproj" />
     <Project Path="src/Examination/Examination.Application/Examination.Application.csproj" />
     <Project Path="src/Examination/Examination.Domain/Examination.Domain.csproj" />
     <Project Path="src/Examination/Examination.Infrastructure/Examination.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/src/Identity/">
+    <Project Path="src/Identity/Identity.API/Identity.API.csproj" />
   </Folder>
   <Folder Name="/test/" />
   <Folder Name="/test/Examination/">
@@ -15,7 +16,7 @@
     <Project Path="test/Examination/Examination.Domain.UnitTests/Examination.Domain.UnitTests.csproj" />
     <Project Path="test/Examination/Examination.Infrastructure.IntegrationTests/Examination.Infrastructure.IntegrationTests.csproj" />
   </Folder>
-  <Folder Name="/test/Indentity.API/">
-    <Project Path="test/Indentity.API/Indentity.API.IntegrationTests/Indentity.API.IntegrationTests.csproj" />
+  <Folder Name="/test/Identity/">
+    <Project Path="test/Identity/Identity.API.IntegrationTests/Identity.API.IntegrationTests.csproj" />
   </Folder>
 </Solution>

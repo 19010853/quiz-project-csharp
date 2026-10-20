@@ -1,4 +1,4 @@
-﻿namespace Indentity.API.IntegrationTests;
+﻿namespace Identity.API.IntegrationTests;
 
 public class UnitTest1
 {
